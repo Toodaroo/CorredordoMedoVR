@@ -1,0 +1,48 @@
+CRÉDITOS DO PROJETO — CORREDOR DO MEDO VR
+
+Projeto acadêmico desenvolvido em Unity.
+
+Integrantes:
+- Todaro
+- Miguel
+- [Adicionar outros integrantes]
+
+Ferramentas:
+- Unity
+- Universal Render Pipeline / URP
+- Google Cardboard XR Plugin
+
+Plataforma:
+- Android
+- Google Cardboard / VR Mobile
+
+Elementos criados pelo grupo:
+- Estrutura do corredor
+- Sistema de movimentação manual
+- Sistema de eventos por posição Z
+- Sistema de luzes por zona
+- Luz vermelha e piscadas
+- Caixa tombando
+- Sistema de jumpscare
+- Dark Overlay
+- Organização da cena
+
+Scripts principais:
+- VRAnalogMove
+- LightZoneByZ
+- ScareSoundByZ
+- BoxTipByZ
+- RedLightFlickerByZ
+- JumpscareByZ
+- DarkOverlayController
+
+Assets externos:
+- Google Cardboard XR Plugin
+
+Áudios:
+- [Adicionar fonte dos áudios usados]
+- [Se forem próprios: Áudios produzidos pelo grupo]
+
+Imagens/Texturas:
+- [Adicionar fonte da imagem/PNG do jumpscare, se usar]
+- [Adicionar fonte do ícone, se usar]
