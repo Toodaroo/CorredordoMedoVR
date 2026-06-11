@@ -16,7 +16,19 @@ Corredor do Medo VR é uma experiência curta de terror em realidade virtual. O 
 
 A proposta é criar medo usando iluminação, áudio espacial, objetos interativos, escurecimento de tela e um jumpscare final.
 
+## Download do APK
 
+A versão final do APK está disponível na aba **Releases** deste repositório.
+
+Arquivo: `Corredor_do_Medo_VR_Final.apk`
+
+Para testar:
+
+1. Baixe o APK pela aba Releases.
+2. Instale em um celular Android.
+3. Conecte um controle Bluetooth.
+4. Use o analógico esquerdo para se movimentar.
+5. Use o movimento da cabeça/giroscópio para controlar a câmera em VR.
 
 \## Plataforma
 
